@@ -1,0 +1,4 @@
+notMNIST*
+.ipynb_checkpoints
+single_layer_SGD_results/
+text8.zip
